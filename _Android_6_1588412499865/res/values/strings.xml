@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 6 strings -->
+
+	<string name="app_name">6</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="mark__taxi_will_be_in_place_in_5_minutes_string">Mark, taxi will be in\
+place in 5 minutes</string>
+	<string name="_3_min_string">3 MIN</string>
+	<string name="wadowicka_street_2a_string">Wadowicka Street 2A</string>
+</resources>

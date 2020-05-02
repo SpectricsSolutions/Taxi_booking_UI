@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 13 colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg___13_color">#ffffff</color>
+	<color name="account_settings_color">#ffffff</color>
+	<color name="indicator_color">#c3cdd6</color>
+	<color name="profile_photo_color">#d6d6d6</color>
+	<color name="mark_kowalsky_color">#303030</color>
+	<color name="divider_color">#f6f6f6</color>
+	<color name="home_color">#d6d6d6</color>
+</resources>

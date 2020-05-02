@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 12 strings -->
+
+	<string name="app_name">12</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="ride_history_string">Ride History</string>
+	<string name="bonarka_city_center_string">Bonarka City Center</string>
+	<string name="from___kamie_skiego_11__cracow_string">From - Kamieskiego 11, Cracow</string>
+	<string name="my_home_string">My Home</string>
+	<string name="to___kobierzy_ska_street__cracow_string">To - Kobierzyska Street, Cracow</string>
+	<string name="id__5431443675434214_string">ID: 5431443675434214</string>
+	<string name="yesterday__5_15_pm_string">Yesterday: 5:15 pm</string>
+	<string name="bonarka_city_center_ek1_string">Bonarka City Center</string>
+	<string name="from___kamie_skiego_11__cracow_ek1_string">From - Kamieskiego 11, Cracow</string>
+	<string name="my_home_ek1_string">My Home</string>
+	<string name="to___kobierzy_ska_street__cracow_ek1_string">To - Kobierzyska Street, Cracow</string>
+	<string name="id__5431443675434214_ek1_string">ID: 5431443675434214</string>
+	<string name="today__5_15_pm_string">Today: 5:15 pm</string>
+	<string name="platinium_gym_string">Platinium Gym</string>
+	<string name="from___kamie_skiego_11__cracow_ek2_string">From - Kamieskiego 11, Cracow</string>
+	<string name="bonarka_city_center_ek2_string">Bonarka City Center</string>
+	<string name="to___kobierzy_ska_street__cracow_ek2_string">To - Kobierzyska Street, Cracow</string>
+	<string name="id__5431443675434214_ek2_string">ID: 5431443675434214</string>
+	<string name="yesterday__5_15_pm_ek1_string">Yesterday: 5:15 pm</string>
+</resources>

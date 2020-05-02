@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 14 colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg___14_color">#ffffff</color>
+	<color name="add_credit_card_color">#ffffff</color>
+	<color name="_12_22_color">#303030</color>
+	<color name="month_year_color">#d6d6d6</color>
+	<color name="______________1597_color">#303030</color>
+	<color name="base_ek1_color">#000000</color>
+	<color name="key_color">#737373</color>
+	<color name="marius_ciocirlan_398931_unsplash_color">#d6d6d6</color>
+</resources>

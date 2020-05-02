@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 14 strings -->
+
+	<string name="app_name">14</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="add_credit_card_string">Add Credit Card</string>
+	<string name="_12_22_string">12/22</string>
+	<string name="card_owner_string">CARD OWNER</string>
+	<string name="month_year_string">MONTH/YEAR</string>
+	<string name="cvc2_cvv2_string">CVC2/CVV2</string>
+	<string name="xxx_string">XXX</string>
+	<string name="xxxx_string">XXXX</string>
+	<string name="xxxx_ek1_string">XXXX</string>
+	<string name="xxxx_ek2_string">XXXX</string>
+	<string name="xxxx_ek3_string">XXXX</string>
+	<string name="label_ek1_string">Label</string>
+	<string name="space_ek1_string">space</string>
+	<string name="_123_ek1_string">123</string>
+	<string name="m_ek1_string">M</string>
+	<string name="n_ek1_string">N</string>
+	<string name="b_ek1_string">B</string>
+	<string name="v_ek1_string">V</string>
+	<string name="c_ek1_string">C</string>
+	<string name="x_ek1_string">X</string>
+	<string name="z_ek1_string">Z</string>
+	<string name="l_ek1_string">L</string>
+	<string name="k_ek1_string">K</string>
+	<string name="j_ek1_string">J</string>
+	<string name="h_ek1_string">H</string>
+	<string name="g_ek1_string">G</string>
+	<string name="f_ek1_string">F</string>
+	<string name="d_ek1_string">D</string>
+	<string name="s_ek1_string">S</string>
+	<string name="a_ek1_string">A</string>
+	<string name="p_ek1_string">P</string>
+	<string name="o_ek1_string">O</string>
+	<string name="i_ek1_string">I</string>
+	<string name="u_ek1_string">U</string>
+	<string name="y_ek1_string">Y</string>
+	<string name="t_ek1_string">T</string>
+	<string name="r_ek1_string">R</string>
+	<string name="e_ek1_string">E</string>
+	<string name="w_ek1_string">W</string>
+	<string name="q_ek1_string">Q</string>
+	<string name="scan_credit_card_string">Scan Credit Card</string>
+	<string name="add_new_card_string">Add new card</string>
+</resources>

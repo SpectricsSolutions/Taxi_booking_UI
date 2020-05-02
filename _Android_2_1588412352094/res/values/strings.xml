@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 2 strings -->
+
+	<string name="app_name">2</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="phone_verification_enter_your_otp_code_below_string">Phone Verification\
+Enter your OTP code below</string>
+	<string name="________________________string">      </string>
+	<string name="by_creating_an_account__you_agree_to_our_terms_of_service_and_privacy_policy_string">Resend Code in 10 seconds</string>
+</resources>

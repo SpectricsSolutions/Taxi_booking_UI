@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 13 strings -->
+
+	<string name="app_name">13</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="account_settings_string">Account Settings</string>
+	<string name="mark_kowalsky_string">Mark Kowalsky</string>
+	<string name="kobierzy_ska_street_string">Kobierzyska Street</string>
+	<string name="home_string">Home</string>
+	<string name="change_string">Change</string>
+	<string name="favourites__string">Favourites </string>
+	<string name="bonarka_for_business_string">Bonarka For Business</string>
+	<string name="work_string">Work</string>
+	<string name="change_ek1_string">Change</string>
+	<string name="bonarka_for_business_ek1_string">Bonarka For Business</string>
+	<string name="shopping_centre_string">Shopping Centre</string>
+	<string name="change_ek2_string">Change</string>
+	<string name="add_new_place_string">Add New Place</string>
+</resources>

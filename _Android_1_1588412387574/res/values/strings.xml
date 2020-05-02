@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 1 strings -->
+
+	<string name="app_name">1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="hello__nice_to_meet_you__get_moving_with_green_taxi_string">Hello, nice to meet you!\
+Get moving with Green Taxi</string>
+	<string name="enter_your_mobile_number_string">Enter your mobile number</string>
+	<string name="__48_string">+48</string>
+	<string name="by_creating_an_account__you_agree_to_our_terms_of_service_and_privacy_policy_string">By creating an account, you agree to our \
+Terms of Service and Privacy Policy</string>
+</resources>

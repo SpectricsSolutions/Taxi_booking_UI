@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 4 colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg___4_color">#ffffff</color>
+	<color name="gradient_map_color">#000000</color>
+	<color name="good_morning__mark_where_are_you_going__color">#303030</color>
+	<color name="indicator_color">#c3cdd6</color>
+	<color name="ellipse_5_color">#2dbb54</color>
+	<color name="suggestion_1_color">#ffffff</color>
+	<color name="divider_color">#efefef</color>
+	<color name="do_more__get_food_delivery_make_money_driving_rate_us_on_store_color">#d6d6d6</color>
+</resources>

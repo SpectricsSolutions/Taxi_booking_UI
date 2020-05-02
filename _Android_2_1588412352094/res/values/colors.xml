@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 2 colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg___2_color">#ffffff</color>
+	<color name="indicator_color">#c3cdd6</color>
+	<color name="phone_verification_enter_your_otp_code_below_color">#303030</color>
+	<color name="marius_ciocirlan_398931_unsplash_ek1_color">#d6d6d6</color>
+</resources>
